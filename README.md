@@ -6,9 +6,12 @@ Technologies Used: HTML5, CSS3, JavaScript
 ## Website URL: https://koneruteja.github.io/Web-api-quiz/
 
 ## Screenshot:
-![Alt text](./assets/images/2.png"Test your knowledge")
-![Alt text](./assets/images/1.png"Questions")
-![Alt text](./assets/images/3.png"results")
+
+![Snap](./assets/images/2.png)
+![Snap](./assets/images/1.png)
+![Snap](./assets/images/3.png)
+
+
 
 
 
